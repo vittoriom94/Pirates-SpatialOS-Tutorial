@@ -1,0 +1,7 @@
+package improbable.ship;
+
+component Health {
+	id = 1006;
+	
+	int32 current_health = 1;
+}
